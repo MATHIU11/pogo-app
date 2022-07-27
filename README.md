@@ -1,2 +1,2 @@
-# pogo-app
+# pogo-app-prueba
 Repositorio app de Pogo
